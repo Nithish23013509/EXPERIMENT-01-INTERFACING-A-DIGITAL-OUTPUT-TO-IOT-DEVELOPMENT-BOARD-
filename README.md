@@ -99,7 +99,8 @@ The main features of LPC2148 include the following.
 
 ## OUTPUT  :
  
- ![image](https://github.com/user-attachments/assets/1cd2a61a-a5bb-4cff-b4aa-b93464698bd0)
+![image](https://github.com/user-attachments/assets/a80c84ca-95ea-4353-ae58-1fd48e5e3abd)
+
 
  
  
