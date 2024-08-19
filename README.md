@@ -1,8 +1,7 @@
-###  DATE: 
-
-###  NAME: 
-###  ROLL NO :
-###  DEPARTMENT: 
+![image](https://github.com/user-attachments/assets/efbc194e-4adc-4acb-9ef4-5c21209572f0)###  DATE: 19-08-2024
+###  NAME: NITHISH S
+###  ROLL NO :212223220070
+###  DEPARTMENT: INFORMATION TECHNOLOGY
 
 
 
@@ -87,13 +86,21 @@ The main features of LPC2148 include the following.
 
 ## STM 32 CUBE PROGRAM :
 
+ while (1)
+  {
+	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_RESET);
+	  HAL_Delay(1000);
+	  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_0, GPIO_PIN_SET);
+	  HAL_Delay(1000);
+  }
 
 
 
 
 ## OUTPUT  :
  
- 
+ ![image](https://github.com/user-attachments/assets/1cd2a61a-a5bb-4cff-b4aa-b93464698bd0)
+
  
  
 ## Result :
